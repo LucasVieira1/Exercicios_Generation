@@ -1,2 +1,2 @@
 # Exercicios_Portugol
-Exercícios do 1 a 8, curso Generation Brasil
+Exercícios feitos no bootcamp da Generation Brasil!
