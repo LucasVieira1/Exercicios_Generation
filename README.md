@@ -5,10 +5,12 @@ Exercicios de Lógica de programação - Java, portugol, realizado durante o Boo
 
 * Netbeans - Backend.
 * Portugol Studio - Backend.
+* MySQL - Backend.
 
 ## 🛠️ Construído com
 
 *  Java
 *  Portugol
+*  SQL
 
 
