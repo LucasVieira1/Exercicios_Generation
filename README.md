@@ -1,5 +1,5 @@
 # ✏ Exercicios Generation Brasil ✏
-Exercicios de Lógica de programação - Java, portugol, realizado durante o Bootcamp da Generation Brasil
+Exercicios de Lógica de programação - Java/Portugol/sql realizado durante o Bootcamp da Generation Brasil
 
 ##  :desktop_computer:  Arquitetura de Software no Desenvolvimento
 
